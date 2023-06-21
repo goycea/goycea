@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">A passionate Mobile Developer in Turkey</h3>
+<h3 align="center">A passionate Mobile Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **my project, View Verse**
 
