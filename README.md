@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">A passionate Mobile Developer in Turkey</h3>
 
-
 - 🔭 I’m currently working on **my project, View Verse**
 
 - 🌱 I’m currently learning **Flutter**
@@ -24,5 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goycea&show_icons=true&locale=en&layout=compact" alt="goycea" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goycea&show_icons=true&locale=en" alt="goycea" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goycea&" alt="goycea" /></p>
