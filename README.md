@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">A passionate Mobile Developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **my project, View Verse**
+- 🔭 I’m currently working on **my freelance project**
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goycea&" alt="goycea" /></p>
 
-![snake gif](https://github.com/goycea/goycea/blob/output/github-contribution-grid-snake.gif)
